@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project uses natural language processing (NLP) and machine learning to classify song lyrics into music genres. The goal was to evaluate whether lyrics alone could predict a song's genre and compare traditional machine-learning models against a transformer-based model.
+This project uses natural language processing and machine learning to classify song lyrics into music genres. The goal was to evaluate whether lyrics alone could predict a song's genre and compare traditional machine learning models against a transformer-based model.
 
 The project was completed in a Jupyter Notebook and includes data loading, exploratory data analysis, text cleaning, feature engineering, model training, and model evaluation.
 
